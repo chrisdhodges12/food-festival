@@ -50,4 +50,4 @@ module.exports = {
   mode: "development",
 };
 
-module.exports = config;
+// module.exports = config;
